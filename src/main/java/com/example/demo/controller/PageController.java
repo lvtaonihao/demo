@@ -10,7 +10,9 @@ public class PageController {
 	@RequestMapping("/ok")
 	@ResponseBody
 	public String getPage() {
-		return "it's very ok , man masterssss ";
+
+		return "it's very ok , man merge";
+
 	}
 	
 }
