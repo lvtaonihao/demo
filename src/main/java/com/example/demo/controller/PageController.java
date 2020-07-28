@@ -11,7 +11,7 @@ public class PageController {
 	@ResponseBody
 	public String getPage() {
 
-		return "it's very ok , man merge";
+		return "it's very ok , man master09";
 
 	}
 	
