@@ -11,7 +11,7 @@ public class PageController {
 	@ResponseBody
 	public String getPage() {
 
-		return "it's very ok , man github sss";
+		return "it's very ok , man github sss ok";
 
 	}
 	
